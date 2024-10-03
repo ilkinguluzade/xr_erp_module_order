@@ -1,0 +1,54 @@
+.container{
+    background-color: var(--bgSoft);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.title{
+    margin-bottom: 20px;
+    font-weight: 200;
+    color: var(--textSoft);
+}
+
+.table{
+    width: 100%;
+}
+
+.table td{
+    padding: 10px;
+}
+
+.status{
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+
+.done{
+    background-color: #89f77375;
+    font-size: 12px;
+
+}
+
+.pending{
+    background-color: #73d8f775;
+    font-size: 12px;
+
+}
+.cancelled{
+    background-color: #f7737375;
+    font-size: 12px;
+
+}
+
+.table_header{
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.table_body{
+    font-size: 12px;
+    text-transform: uppercase;
+}
