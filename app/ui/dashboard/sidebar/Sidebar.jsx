@@ -16,7 +16,12 @@ const menuItems = [
             },
             {
                 title: "Sifarişlər",
-                path: "/dashboard/orders",
+                path: "/orders",
+                icon: <MdInsertDriveFile/>
+            },
+            {
+                title: "İstifadəçilər",
+                path: "/users",
                 icon: <MdInsertDriveFile/>
             }
         ]

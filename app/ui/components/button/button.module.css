@@ -1,0 +1,47 @@
+.main{
+    padding: 10px;
+    background-color: #5d57c9;
+    color: var(--text);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.danger{
+    padding: 10px;
+    color: var(--text);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+    background-color: #f7737375;
+}
+
+.paginationPrevious{
+    padding: 10px;
+    color: var(--text);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+    background-color: #5d57c9;
+}
+.paginationNext{
+    padding: 10px;
+    color: var(--text);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+    background-color: #5d57c9;
+}
+
+.disabled{
+    padding: 10px;
+    color: var(--text);
+    border: none;
+    border-radius: 10px;
+
+    background-color: #2e374a;
+    cursor: not-allowed;
+}
