@@ -49,7 +49,7 @@ const Sidebar = () => {
             <Image src="/noAvatar.png" alt="" width="50" height="50" className={styles.userProfilePhoto} />
             <div className={styles.userDetail}>
                 <span className={styles.userName}>Ilkin Guluzade</span>
-                <span className={styles.userPosition}>Full-Stack Proqramçı</span>
+                <span className={styles.userPosition}>FullStack Developer</span>
             </div>
         </div>
       <ul className={styles.list}>
