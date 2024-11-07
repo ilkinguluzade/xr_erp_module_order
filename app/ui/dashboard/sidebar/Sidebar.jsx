@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from "./sidebar.module.css"
 import {MdDashboard, MdInsertDriveFile, MdLogout} from "react-icons/md"
-import MenuLink from './menuLink/menuLink'
+import MenuLink from './menuLink/MenuLink'
 import Image from 'next/image'
 import { ST } from 'next/dist/shared/lib/utils'
 
